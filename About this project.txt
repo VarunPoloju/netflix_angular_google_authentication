@@ -30,4 +30,3 @@ we'll use swiperjs from npm for movie carousal - npm i swiper
 
 
 
-struck at all the movies were not displaying in browse page , need to check urls in movie service
